@@ -39,7 +39,6 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/matthew-alberto-sanchez-lopez-030699258/"><img src="https://img.shields.io/badge/-MattLpzZ-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:matthew.lopez@rmgraphicdesing.lat"><img src="https://img.shields.io/badge/-matthew.lopez@rmgraphicdesing.lat-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/mattlpzz/)"><img src="https://img.shields.io/badge/-@mattlpzz-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/matthew.A.lpz/"><img src="https://img.shields.io/badge/-Matthew Lopez-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
